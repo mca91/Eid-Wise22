@@ -2,6 +2,8 @@
 title: "Übung"
 ---
 
+Nachfolgend finden Sie Materialien für die Übung. Die Veranstaltung findet -- vorbehaltlich weiterer Entwicklungen -- weiterhin in R11 T08 C98 statt.
+
 ## Online-Companion (ITER)
 
 [Link zum Online-Companion](https://www.econometrics-with-r.org/)
