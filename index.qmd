@@ -2,9 +2,9 @@
 title: "Übung"
 ---
 
-Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit.
+Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit. **Bitte beachten Sie, dass sämtlich Emaildienste ebenfalls betroffen sind.** 
 
-Wichtige Infos kommunizieren wir zusätzlich über unseren Dischord-Server (siehe unten).
+**Wichtige Infos kommunizieren wir zusätzlich über unseren Dischord-Server (siehe unten).**
 
 Bei wichtigen Fragen wenden Sie sich bitte per Email an [Martin Arnold](mailto:martchriarno@googlemail.com?subject=[EidÖ])
 

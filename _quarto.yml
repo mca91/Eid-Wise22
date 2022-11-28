@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: ""
+      - href: Vorlesung.qmd
+        text: "Vorlesung"
   
 format:
   html:

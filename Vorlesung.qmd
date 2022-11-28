@@ -1,0 +1,6 @@
+---
+title: "Vorlesung"
+---
+
+- [Skript](https://github.com/mca91/Eidoe22/raw/main/skript.pdf)
+- [Altklausur](https://github.com/mca91/Eidoe22/raw/main/altklausur.pdf)
