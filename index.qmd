@@ -2,9 +2,11 @@
 title: "Übung"
 ---
 
-Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Übungsmaterialien und wichtige Infos für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit.
+Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit.
 
-Bei wichtigen fragen wenden Sie sich bitte per Email an [Martin Arnold](mailto:martchriarno@googlemail.com?subject=[EidÖ])
+Wichtige Infos kommunizieren wir zusätzlich über unseren Dischord-Server (siehe unten).
+
+Bei wichtigen Fragen wenden Sie sich bitte per Email an [Martin Arnold](mailto:martchriarno@googlemail.com?subject=[EidÖ])
 
 [Link zum Online-Companion](https://www.econometrics-with-r.org/)
 
