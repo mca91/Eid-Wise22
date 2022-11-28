@@ -4,6 +4,8 @@ title: "Übung"
 
 Nachfolgend finden Sie Materialien für die Übung. Die Veranstaltung findet -- vorbehaltlich weiterer Entwicklungen -- weiterhin in R11 T08 C98 statt.
 
+Bei wichtigen Fragen bzgl. der Vorlesung wenden Sie sich bitte per Email an [Martin Arnold](mailto:martchriarno@googlemail.com?subject=[EidÖ])
+
 ## Online-Companion (ITER)
 
 [Link zum Online-Companion](https://www.econometrics-with-r.org/)
