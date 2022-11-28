@@ -3,13 +3,13 @@ title: "Einführung in die Ökonometrie (WiSe 22)"
 subtitle: "Lehrstuhl für Ökonometrie (UDE)"
 ---
 
-Aufgrund der aktuellen teschnischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit. **Bitte beachten Sie, dass sämtlich Emaildienste ebenfalls betroffen sind.** 
+Aufgrund der aktuellen teschnischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit. 
 
-**Wichtige Infos kommunizieren wir zusätzlich über unseren Dischord-Server (siehe unten).** 
+**Bitte beachten Sie, dass sämtlich Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Dischord-Server (siehe unten). Bitte nutzen Sie Discord für Diskussionen rund um die Lehrveranstaltung.** 
 
 ## Kontakt
 
-Bei **wichtigen** Fragen wenden Sie sich bitte per Email an uns
+Bei **wichtigen** Fragen wenden Sie sich bitte per Email an uns:
 
 - [Martin Arnold](mailto:martchriarno@googlemail.com?subject=[EidÖ])
 - [Yannick Hoga](mailto:martchriarno@googlemail.com?subject=[EidÖ])
