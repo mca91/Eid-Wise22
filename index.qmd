@@ -4,6 +4,12 @@ title: "Übung"
 
 ## Übungsblätter
 
+- [Übungsblatt 1](https://github.com/mca91/Eidoe22/raw/main/Blatt-1.pdf)
+- [Übungsblatt 2](https://github.com/mca91/Eidoe22/raw/main/Blatt-2.pdf)
+- [Übungsblatt 3](https://github.com/mca91/Eidoe22/raw/main/Blatt-3.pdf)
+- [Übungsblatt 4](https://github.com/mca91/Eidoe22/raw/main/Blatt-4.pdf)
+- [Übungsblatt 5](https://github.com/mca91/Eidoe22/raw/main/Blatt-5.pdf)
+
 ## Discord Diskussions- und Nachrichtenforum
 
 <iframe src="https://e.widgetbot.io/channels/1046707102984437770/1046707119774236694" height="600" width="100%"></iframe>
