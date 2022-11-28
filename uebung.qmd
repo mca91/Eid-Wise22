@@ -34,3 +34,9 @@ Bei wichtigen Fragen bzgl. der Übung wenden Sie sich bitte per Email an [Martin
 
 - [Zusatzaufgabe 1](https://github.com/mca91/Eidoe22/raw/main/Assignment1.pdf)
 - <a href="https://github.com/mca91/Eidoe22/raw/main/stimmung.csv" download>stimmung.csv</a> (Rechtsklick -> Ziel/Datei speichern als/unter, falls sich kein download öffnet)
+
+
+## Optionales Kursangebot bei DataCamp
+
+Über [diesen Link](https://www.datacamp.com/groups/shared_links/6be1aaf777a4eae948e83c8b536cbe96a8f7021b962abe18026275f5082f3697) gelangen Sie zu unserer DataCamp-Gruppe. Bitte kontaktieren Sie den Übungsleiter bzgl. Freischaltung.
+
