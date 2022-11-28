@@ -1,50 +1,71 @@
 [
   {
-    "objectID": "Vorlesung.html",
-    "href": "Vorlesung.html",
-    "title": "Vorlesung",
-    "section": "",
-    "text": "Skript\nAltklausur"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "uebung.html",
+    "href": "uebung.html",
     "title": "Übung",
     "section": "",
-    "text": "Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs Einführung in die Ökonometrie kurzfristig über diese Website bereit. Bitte beachten Sie, dass sämtlich Emaildienste ebenfalls betroffen sind.\nWichtige Infos kommunizieren wir zusätzlich über unseren Dischord-Server (siehe unten).\nBei wichtigen Fragen wenden Sie sich bitte per Email an Martin Arnold\nLink zum Online-Companion"
+    "text": "Link zum Online-Companion"
   },
   {
-    "objectID": "index.html#übungsblätter",
-    "href": "index.html#übungsblätter",
+    "objectID": "uebung.html#übungsblätter",
+    "href": "uebung.html#übungsblätter",
     "title": "Übung",
     "section": "Übungsblätter",
     "text": "Übungsblätter\n\nÜbungsblatt 1\nÜbungsblatt 2\nÜbungsblatt 3\nÜbungsblatt 4\nÜbungsblatt 5"
   },
   {
-    "objectID": "index.html#r-lösungen",
-    "href": "index.html#r-lösungen",
+    "objectID": "uebung.html#r-lösungen",
+    "href": "uebung.html#r-lösungen",
     "title": "Übung",
     "section": "R-Lösungen",
     "text": "R-Lösungen\n\nR-Lösungen Blatt 1\nR-Lösungen Blatt 3\nR-Lösungen Blatt 4"
   },
   {
-    "objectID": "index.html#datensätze",
-    "href": "index.html#datensätze",
+    "objectID": "uebung.html#datensätze",
+    "href": "uebung.html#datensätze",
     "title": "Übung",
     "section": "Datensätze",
     "text": "Datensätze\n\nCASchools.Rdata"
   },
   {
-    "objectID": "index.html#zusatzaufgabe-1",
-    "href": "index.html#zusatzaufgabe-1",
+    "objectID": "uebung.html#zusatzaufgabe-1",
+    "href": "uebung.html#zusatzaufgabe-1",
     "title": "Übung",
     "section": "Zusatzaufgabe 1",
     "text": "Zusatzaufgabe 1\nMit dieser Zusatzaufgabe können Sie bis zu 2.5 Zusatzpunkte für die Klausur erwerben. Die Zusatzpunkte werden nur bei bestandener Klausur angerechnet. Sie können die Aufgaben in einer Gruppe von bis zu drei Personen bearbeiten. Ihre Lösungen sind bis einschließlich Mittwoch, den 7.12.2022, unter Nennung von Na- men und Matrikelnummer aller Beteiligten als kommentiertes R-Skript per E-Mail einzureichen (siehe Aufgabenblatt).\n\nZusatzaufgabe 1\nstimmung.csv"
   },
   {
+    "objectID": "Vorlesung.html",
+    "href": "Vorlesung.html",
+    "title": "Vorlesung",
+    "section": "",
+    "text": "Bei wichtigen Fragen bzgl. der Vorlesung wenden Sie sich bitte per Email an Yannick Hoga"
+  },
+  {
+    "objectID": "Vorlesung.html#online-companion-iter",
+    "href": "Vorlesung.html#online-companion-iter",
+    "title": "Vorlesung",
+    "section": "Online-Companion (ITER)",
+    "text": "Online-Companion (ITER)\nLink zum Online-Companion"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Einführung in die Ökonometrie (WiSe 22)",
+    "section": "",
+    "text": "Aufgrund der aktuellen teschnischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs Einführung in die Ökonometrie kurzfristig über diese Website bereit. Bitte beachten Sie, dass sämtlich Emaildienste ebenfalls betroffen sind.\nWichtige Infos kommunizieren wir zusätzlich über unseren Dischord-Server (siehe unten)."
+  },
+  {
+    "objectID": "index.html#kontakt",
+    "href": "index.html#kontakt",
+    "title": "Einführung in die Ökonometrie (WiSe 22)",
+    "section": "Kontakt",
+    "text": "Kontakt\nBei wichtigen Fragen wenden Sie sich bitte per Email an uns\n\nMartin Arnold\nYannick Hoga"
+  },
+  {
     "objectID": "index.html#discord-diskussions--und-nachrichtenforum",
     "href": "index.html#discord-diskussions--und-nachrichtenforum",
-    "title": "Übung",
+    "title": "Einführung in die Ökonometrie (WiSe 22)",
     "section": "Discord: Diskussions- und Nachrichtenforum",
     "text": "Discord: Diskussions- und Nachrichtenforum"
   }

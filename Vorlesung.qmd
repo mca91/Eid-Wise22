@@ -2,5 +2,11 @@
 title: "Vorlesung"
 ---
 
+Bei wichtigen Fragen bzgl. der Vorlesung wenden Sie sich bitte per Email an [Yannick Hoga](mailto:martchriarno@googlemail.com?subject=[EidÖ])
+
 - [Skript](https://github.com/mca91/Eidoe22/raw/main/skript.pdf)
 - [Altklausur](https://github.com/mca91/Eidoe22/raw/main/altklausur.pdf)
+
+## Online-Companion (ITER)
+
+[Link zum Online-Companion](https://www.econometrics-with-r.org/)
