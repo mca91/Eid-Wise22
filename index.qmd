@@ -5,7 +5,7 @@ subtitle: "Lehrstuhl für Ökonometrie (UDE)"
 
 Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit. 
 
-**Bitte beachten Sie, dass sämtlich Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Dischord-Server (siehe unten). Bitte nutzen Sie Discord für Diskussionen rund um die Lehrveranstaltung.** 
+**Bitte beachten Sie, dass sämtliche Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Dischord-Server (siehe unten). Bitte nutzen Sie Discord für Diskussionen rund um die Lehrveranstaltung.** 
 
 ## Kontakt
 
