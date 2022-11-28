@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Übung",
     "section": "",
-    "text": "Übungsblatt 1\nÜbungsblatt 2\nÜbungsblatt 3\nÜbungsblatt 4\nÜbungsblatt 5"
+    "text": "Aufgrund der aktuellen teschnischen Problemen bei den Informationsdiensten der Universität stellen wir Übungsmaterialien und wichtige Infos für den Kurs Einführung in die Ökonometrie kurzfristig über diese Website bereit.\nBei wichtigen fragen wenden Sie sich bitte per Email an Martin Arnold\nLink zum Online-Companion"
+  },
+  {
+    "objectID": "index.html#übungsblätter",
+    "href": "index.html#übungsblätter",
+    "title": "Übung",
+    "section": "Übungsblätter",
+    "text": "Übungsblätter\n\nÜbungsblatt 1\nÜbungsblatt 2\nÜbungsblatt 3\nÜbungsblatt 4\nÜbungsblatt 5"
   },
   {
     "objectID": "index.html#r-lösungen",
@@ -14,17 +21,24 @@
     "text": "R-Lösungen\n\nR-Lösungen Blatt 1\nR-Lösungen Blatt 3\nR-Lösungen Blatt 4"
   },
   {
+    "objectID": "index.html#datensätze",
+    "href": "index.html#datensätze",
+    "title": "Übung",
+    "section": "Datensätze",
+    "text": "Datensätze\n\nCASchools.Rdata"
+  },
+  {
     "objectID": "index.html#zusatzaufgabe-1",
     "href": "index.html#zusatzaufgabe-1",
     "title": "Übung",
     "section": "Zusatzaufgabe 1",
-    "text": "Zusatzaufgabe 1\n\nZusatzaufgabe 1\nZusatzaufgabe 1"
+    "text": "Zusatzaufgabe 1\nMit dieser Zusatzaufgabe können Sie bis zu 2.5 Zusatzpunkte für die Klausur erwerben. Die Zusatzpunkte werden nur bei bestandener Klausur angerechnet. Sie können die Aufgaben in einer Gruppe von bis zu drei Personen bearbeiten. Ihre Lösungen sind bis einschließlich Mittwoch, den 7.12.2022, unter Nennung von Na- men und Matrikelnummer aller Beteiligten als kommentiertes R-Skript per E-Mail einzureichen (siehe Aufgabenblatt).\n\nZusatzaufgabe 1\nstimmung.csv"
   },
   {
     "objectID": "index.html#discord-diskussions--und-nachrichtenforum",
     "href": "index.html#discord-diskussions--und-nachrichtenforum",
     "title": "Übung",
-    "section": "Discord Diskussions- und Nachrichtenforum",
-    "text": "Discord Diskussions- und Nachrichtenforum"
+    "section": "Discord: Diskussions- und Nachrichtenforum",
+    "text": "Discord: Diskussions- und Nachrichtenforum"
   }
 ]
