@@ -10,6 +10,17 @@ title: "Übung"
 - [Übungsblatt 4](https://github.com/mca91/Eidoe22/raw/main/Blatt-4.pdf)
 - [Übungsblatt 5](https://github.com/mca91/Eidoe22/raw/main/Blatt-5.pdf)
 
+## R-Lösungen
+
+- [R-Lösungen Blatt 1](https://github.com/mca91/Eidoe22/raw/main/Blatt-1_R_sol.pdf)
+- [R-Lösungen Blatt 3](https://github.com/mca91/Eidoe22/raw/main/Blatt-3_R_sol.pdf)
+- [R-Lösungen Blatt 4](https://github.com/mca91/Eidoe22/raw/main/Blatt-4_R_sol.pdf)
+
+## Zusatzaufgabe 1
+
+- [Zusatzaufgabe 1](https://github.com/mca91/Eidoe22/raw/main/Assignment1.pdf)
+- [Zusatzaufgabe 1](https://github.com/mca91/Eidoe22/raw/main/stimmung.csv)
+
 ## Discord Diskussions- und Nachrichtenforum
 
 <iframe src="https://e.widgetbot.io/channels/1046707102984437770/1046707119774236694" height="600" width="100%"></iframe>
