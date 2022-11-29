@@ -11,11 +11,8 @@ website:
       - href: uebung.qmd
         text: "Übung"
   page-footer:
-    center: 
-      - text: "Content by Martin Arnold"
-        href: " "
-      - text: "Licensed under CC BY-SA 4.0"
-        href: "https://creativecommons.org/licenses/by-sa/4.0/"
+    center: "Written by Martin Arnold using <a href='https://quarto.org'>Quarto</a> &centerdot; Licensed under <a href='https://creativecommons.org/licenses/by-sa/4.0/'>CC BY-SA 4.0</a>"
+
   
 format:
   html:
