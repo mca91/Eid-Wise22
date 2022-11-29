@@ -10,6 +10,12 @@ website:
         text: "Vorlesung"
       - href: uebung.qmd
         text: "Übung"
+  page-footer:
+    center: 
+      - text: "Content by Martin Arnold"
+        href: " "
+      - text: "Licensed under CC BY-SA 4.0"
+        href: "https://creativecommons.org/licenses/by-sa/4.0/"
   
 format:
   html:
