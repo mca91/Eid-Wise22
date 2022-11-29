@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Einführung in die Ökonometrie (WiSe 22)",
     "section": "",
-    "text": "Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs Einführung in die Ökonometrie kurzfristig über diese Website bereit.\nBitte beachten Sie, dass sämtliche Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Dischord-Server (siehe unten). Bitte nutzen Sie Discord für Diskussionen rund um die Lehrveranstaltung."
+    "text": "Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs Einführung in die Ökonometrie kurzfristig über diese Website bereit.\nBitte beachten Sie, dass sämtliche Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Discord-Server (siehe unten). Bitte nutzen Sie Discord ausschließlich für Diskussionen rund um die Lehrveranstaltung."
   },
   {
     "objectID": "index.html#kontakt",
@@ -77,10 +77,17 @@
     "text": "Kontakt\nBei wichtigen Fragen wenden Sie sich bitte per Email an uns:\n\nMartin Arnold\nYannick Hoga\nChristoph Hanck"
   },
   {
+    "objectID": "index.html#lehrmaterialien-zu-weiteren",
+    "href": "index.html#lehrmaterialien-zu-weiteren",
+    "title": "Einführung in die Ökonometrie (WiSe 22)",
+    "section": "Lehrmaterialien zu weiteren",
+    "text": "Lehrmaterialien zu weiteren\nWir möchten Sie außerdem auf folgende Websites mit Lehrmaterialien zu weiteren Modulen aufmerksam machen:\n\nLehrstuhl für Ökonometrie\n\nDeskriptive Statistik\n\n\n\nLehrstuhl UEE (Prof. Ziel)\n\nUmweltökonomik und Erneuerbare Energien"
+  },
+  {
     "objectID": "index.html#discord-diskussions--und-nachrichtenforum",
     "href": "index.html#discord-diskussions--und-nachrichtenforum",
     "title": "Einführung in die Ökonometrie (WiSe 22)",
     "section": "Discord: Diskussions- und Nachrichtenforum",
-    "text": "Discord: Diskussions- und Nachrichtenforum"
+    "text": "Discord: Diskussions- und Nachrichtenforum\nBitte nutzen Sie den Channel #diskussion."
   }
 ]

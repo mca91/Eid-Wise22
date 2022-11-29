@@ -5,7 +5,7 @@ subtitle: "Lehrstuhl für Ökonometrie (UDE)"
 
 Aufgrund der aktuellen technischen Probleme bei den Informationsdiensten der Universität stellen wir Materialien für den Kurs *Einführung in die Ökonometrie* kurzfristig über diese Website bereit. 
 
-**Bitte beachten Sie, dass sämtliche Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Dischord-Server (siehe unten). Bitte nutzen Sie Discord für Diskussionen rund um die Lehrveranstaltung.** 
+**Bitte beachten Sie, dass sämtliche Emaildienste der Universität ebenfalls betroffen sind. Wichtige Infos kommunizieren wir daher zusätzlich über unseren Discord-Server (siehe unten). Bitte nutzen Sie Discord ausschließlich für Diskussionen rund um die Lehrveranstaltung.** 
 
 ## Kontakt
 
@@ -15,6 +15,20 @@ Bei **wichtigen** Fragen wenden Sie sich bitte per Email an uns:
 - [Yannick Hoga](mailto:hogayannick@gmail.com?subject=[EidÖ])
 - [Christoph Hanck](mailto:christoph.hanck@uni-dortmund.de?subject=[EidÖ])
 
+## Lehrmaterialien zu weiteren
+
+Wir möchten Sie außerdem auf folgende Websites mit Lehrmaterialien zu weiteren Modulen aufmerksam machen:
+
+### Lehrstuhl für Ökonometrie
+
+- [Deskriptive Statistik](https://jens-klenke.github.io/Desk_Stat_WiSe_22/)
+
+### Lehrstuhl UEE (Prof. Ziel)
+
+- [Umweltökonomik und Erneuerbare Energien](https://uee.berrisch.biz)
+
 ## Discord: Diskussions- und Nachrichtenforum
+
+Bitte nutzen Sie den Channel #diskussion.
 
 <iframe src="https://e.widgetbot.io/channels/1046707102984437770/1046707119774236694" height="600" width="100%"></iframe>
