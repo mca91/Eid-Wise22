@@ -19,8 +19,7 @@ website:
         aria-label: GitHub
   page-footer:
     center: "Content by Martin Arnold. Built using <a href='https://quarto.org'>Quarto</a> &centerdot; Licensed under <a href='https://creativecommons.org/licenses/by-sa/4.0/'>CC BY-SA 4.0</a>"
-  open-graph: true
-  
+    
 format:
   html:
     theme: darkly
