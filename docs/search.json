@@ -18,7 +18,7 @@
     "href": "uebung.html#übungsblätter",
     "title": "Übung",
     "section": "Übungsblätter",
-    "text": "Übungsblätter\n\nÜbungsblatt 1\nÜbungsblatt 2\nÜbungsblatt 3\nÜbungsblatt 4\nÜbungsblatt 5"
+    "text": "Übungsblätter\n\nÜbungsblatt 1\nÜbungsblatt 2\nÜbungsblatt 3\nÜbungsblatt 4\nÜbungsblatt 5\nÜbungsblatt 5"
   },
   {
     "objectID": "uebung.html#r-lösungen",
@@ -28,11 +28,18 @@
     "text": "R-Lösungen\n\nR-Funktionssammlung (kein Anspruch auf Vollständigkeit!)\nR-Lösungen Blatt 1\nR-Lösungen Blatt 3\nR-Lösungen Blatt 4"
   },
   {
+    "objectID": "uebung.html#sonstige-lösungen",
+    "href": "uebung.html#sonstige-lösungen",
+    "title": "Übung",
+    "section": "Sonstige Lösungen",
+    "text": "Sonstige Lösungen\n\nBlatt 4 A4"
+  },
+  {
     "objectID": "uebung.html#datensätze",
     "href": "uebung.html#datensätze",
     "title": "Übung",
     "section": "Datensätze",
-    "text": "Datensätze\n\nCASchools.Rdata"
+    "text": "Datensätze\n\nCASchools.Rdata\nbr.dat\nbr.def\nBoston"
   },
   {
     "objectID": "uebung.html#zusatzaufgabe-1",
