@@ -33,7 +33,7 @@ Bei wichtigen Fragen bzgl. der Übung wenden Sie sich bitte per Email an [Martin
 ## Datensätze
 
 - [CASchools.Rdata](https://github.com/mca91/Eidoe22/raw/main/CASchools.Rdata)
-- [br.dat](https://github.com/mca91/Eidoe22/raw/main/br.dat)
+- [br.dat](https://github.com/mca91/Eidoe22/raw/main/br.dat) (Rechtsklick &#8594; Ziel/Datei speichern als/unter, falls sich kein download öffnet)
 - [br.def](https://github.com/mca91/Eidoe22/raw/main/br.def)
 - [Boston](https://github.com/mca91/Eidoe22/raw/main/Boston.Rdata)
 
