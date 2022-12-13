@@ -1,0 +1,41 @@
+---
+title: "Pakete installieren und laden"
+author: "Martin Arnold"
+format: pdf
+---
+
+Pakete in `R` werden mit der Funktion `install.packages()` installiert. Wir übergeben den Paketname als `character`. Der Befehl muss für jedes Paket nur einmalig ausgeführt werden: `install.packages()` installiert das Paket *lokal* in der Paket-Bibliothek, d.h. es ist anschließend auf dem Computer verfügbar und kann mit dem Befehl `library()` (bei jedem Programmstart erneut) geladen werden.
+
+## Beispiel: `MASS`
+
+Das Paket `MASS` *installieren*:
+
+```{r, eval=F}
+install.packages("MASS")
+```
+
+Das Paket `MASS` *laden*:
+
+```{r, eval=T, message=F}
+library(MASS)
+```
+
+Den Datensatz `Boston` aus dem Paket `MASS` in der Arbeitsumgebung verfügbar machen:
+
+```{r, eval=T}
+data(Boston)
+```
+
+Wir können nun mit dem Datensatz `Boston` arbeiten:
+
+```{r, eval=T}
+head(Boston[, 1:5])
+```
+
+## Für die Übung in *Einführung in die Ökonometrie* benötigte Pakete
+
+(diese Liste wird fortlaufend aktualisiert)
+
+- `AER` -- `install.packages("AER")`
+- `MASS` -- `install.packages("MASS")`
+- `tidyverse` -- (enthält `ggplot2`, benötigt für Zusatzaufgabe 1) -- `install.packages("tidyverse")`
