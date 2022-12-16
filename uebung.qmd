@@ -27,7 +27,7 @@ Bei wichtigen Fragen bzgl. der Übung wenden Sie sich bitte per Email an [Martin
 - [R-Lösungen Blatt 3](https://github.com/mca91/Eidoe22/raw/main/Blatt-3_R_sol.pdf)
 - [R-Lösungen Blatt 4](https://github.com/mca91/Eidoe22/raw/main/Blatt-4_R_sol.pdf)
 - [R-Lösungen Blatt 5](https://github.com/mca91/Eidoe22/raw/main/Blatt-5_R_sol.pdf)
-- [R-Lösungen Blatt 6](https://github.com/mca91/Eidoe22/raw/main/Blatt-6_R_sol.pdf)
+- [R-Lösungen Blatt 6](https://github.com/mca91/Eidoe22/raw/main/Blatt-6_R_Sol.pdf)
 
 ### R-Pakete
 
