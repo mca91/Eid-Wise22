@@ -60,7 +60,7 @@ Bei wichtigen Fragen bzgl. der Übung wenden Sie sich bitte per Email an [Martin
 *Mit dieser Zusatzaufgabe können Sie bis zu 2.5 Zusatzpunkte für die Klausur erwerben. Die <u>Zusatzpunkte werden nur bei bestandener Klausur angerechnet</u>. Sie können die Aufgaben in einer Gruppe von bis zu drei Personen bearbeiten. Ihre Lösungen sind bis einschließlich Mittwoch, den 13.01.2023, unter Nennung von Namen und Matrikelnummer aller Beteiligten als kommentiertes R-Skript per E-Mail an [Martin Arnold](mailto:martchriarno@googlemail.com?subject=[EidÖ]) einzureichen.*
 
 - [Zusatzaufgabe 2](https://github.com/mca91/Eidoe22/raw/main/Assignment2.pdf)
-- <a href="https://github.com/mca91/Eidoe22/raw/main/KGLohn.RDS" download>KGLohn.RDS</a> (Rechtsklick &#8594; Ziel/Datei speichern als/unter, falls sich kein Download öffnet)
+- <a href="https://github.com/mca91/Eidoe22/raw/main/KGLohn.Rds" download>KGLohn.RDS</a> (Rechtsklick &#8594; Ziel/Datei speichern als/unter, falls sich kein Download öffnet)
 
 ## Optionales Kursangebot bei DataCamp
 
