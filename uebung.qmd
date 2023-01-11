@@ -19,6 +19,7 @@ Bei wichtigen Fragen bzgl. der Übung wenden Sie sich bitte per Email an [Martin
 - [Übungsblatt 5](https://github.com/mca91/Eidoe22/raw/main/Blatt-5.pdf)
 - [Übungsblatt 6](https://github.com/mca91/Eidoe22/raw/main/Blatt-6.pdf)
 - [Übungsblatt 7](https://github.com/mca91/Eidoe22/raw/main/Blatt-7.pdf)
+- [Übungsblatt 8](https://github.com/mca91/Eidoe22/raw/main/Blatt-8.pdf)
 
 ## R-Lösungen
 
